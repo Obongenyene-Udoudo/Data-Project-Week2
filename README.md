@@ -44,4 +44,6 @@ Data Visualization
 ![](Number_of_Students_that_Do_Not_Smoke.png)
 ![](Number_of_Student_that_Have_Diabetes.png)
 
+## Conclusion
+Week 2 which consisted of  Pivot Tables and Data Visualization was quite intriguing and the tasks engaging. The boot camp has so far been immensely impactful.
 
